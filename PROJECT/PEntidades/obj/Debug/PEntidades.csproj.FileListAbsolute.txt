@@ -1,0 +1,6 @@
+C:\Users\ernes\source\repos\PROJECT\PEntidades\bin\Debug\PEntidades.dll
+C:\Users\ernes\source\repos\PROJECT\PEntidades\bin\Debug\PEntidades.pdb
+C:\Users\ernes\source\repos\PROJECT\PEntidades\obj\Debug\PEntidades.csproj.AssemblyReference.cache
+C:\Users\ernes\source\repos\PROJECT\PEntidades\obj\Debug\PEntidades.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\PROJECT\PEntidades\obj\Debug\PEntidades.dll
+C:\Users\ernes\source\repos\PROJECT\PEntidades\obj\Debug\PEntidades.pdb

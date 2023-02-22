@@ -1,0 +1,9 @@
+C:\Users\ernes\source\repos\PROJECT\PDatos\obj\Debug\PDatos.csproj.AssemblyReference.cache
+C:\Users\ernes\source\repos\PROJECT\PDatos\obj\Debug\PDatos.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\PROJECT\PDatos\bin\Debug\PDatos.dll
+C:\Users\ernes\source\repos\PROJECT\PDatos\bin\Debug\PDatos.pdb
+C:\Users\ernes\source\repos\PROJECT\PDatos\bin\Debug\PEntidades.dll
+C:\Users\ernes\source\repos\PROJECT\PDatos\bin\Debug\PEntidades.pdb
+C:\Users\ernes\source\repos\PROJECT\PDatos\obj\Debug\PDatos.csproj.CopyComplete
+C:\Users\ernes\source\repos\PROJECT\PDatos\obj\Debug\PDatos.dll
+C:\Users\ernes\source\repos\PROJECT\PDatos\obj\Debug\PDatos.pdb

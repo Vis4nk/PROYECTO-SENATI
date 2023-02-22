@@ -1,0 +1,11 @@
+C:\Users\ernes\source\repos\PROJECT\PNegocio\obj\Debug\PNegocio.csproj.AssemblyReference.cache
+C:\Users\ernes\source\repos\PROJECT\PNegocio\obj\Debug\PNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\PROJECT\PNegocio\bin\Debug\PNegocio.dll
+C:\Users\ernes\source\repos\PROJECT\PNegocio\bin\Debug\PNegocio.pdb
+C:\Users\ernes\source\repos\PROJECT\PNegocio\bin\Debug\PDatos.dll
+C:\Users\ernes\source\repos\PROJECT\PNegocio\bin\Debug\PEntidades.dll
+C:\Users\ernes\source\repos\PROJECT\PNegocio\bin\Debug\PDatos.pdb
+C:\Users\ernes\source\repos\PROJECT\PNegocio\bin\Debug\PEntidades.pdb
+C:\Users\ernes\source\repos\PROJECT\PNegocio\obj\Debug\PNegocio.csproj.CopyComplete
+C:\Users\ernes\source\repos\PROJECT\PNegocio\obj\Debug\PNegocio.dll
+C:\Users\ernes\source\repos\PROJECT\PNegocio\obj\Debug\PNegocio.pdb
